@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Radio Ángel FM Reinos Unidos",
             artist: "RadioÁngelFM",
-            cover: "https://img.freepik.com/vector-gratis/coleccion-banderas-ondeando_1368-2668.jps",
+            cover: "https://img.freepik.com/vector-gratis/fondo-noticias-tecnologia-tierra-digital_1017-36675.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://edge.clrmedia.co.uk/angel_hb",
@@ -150,7 +150,7 @@ function chillHop() {
          {
             name:"Nostalgie Belgium",
             artist: "Nostalgie",
-            cover: "https://img.freepik.com/vector-gratis/coleccion-banderas-ondeando_1368-2668.jps",
+            cover: "https://img.freepik.com/vector-gratis/fondo-noticias-tecnologia-tierra-digital_1017-36675.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://25593.live.streamtheworld.com/NOSTALGIEWHATAFEELING_SC",
